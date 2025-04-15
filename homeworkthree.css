@@ -1,0 +1,20 @@
+@charset "utf-8";
+button {
+}
+
+p{
+	font-family:"Verdana";
+}
+
+body, html {
+	height: 100%;
+	overflow: hidden;
+}
+
+html { 
+  background: url(Images/LaptopC.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

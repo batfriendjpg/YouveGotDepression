@@ -1,0 +1,25 @@
+@charset "utf-8";
+button {
+	border-radius:9px;
+}
+
+p{
+	font-family:"Verdana";
+}
+
+.question:hover {
+	background-color:red;
+	border: 4px red;
+}
+
+body, html {
+	height: 100%;
+}
+
+html { 
+  background: url(Images/FloorDoor.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

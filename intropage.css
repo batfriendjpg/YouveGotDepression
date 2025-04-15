@@ -1,0 +1,35 @@
+@charset "utf-8";
+body{
+	align-content:center;
+}
+
+.please{ 
+	text-align:center;
+}
+
+button{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: black;
+	color: white;
+	padding: 12px 14px;
+	border-radius: 9px;
+	transition-duration: 0.3s;
+	border: 2px solid #000000;
+}
+
+button:hover{
+	background-color: whitesmoke;
+	color: black;
+	border: 2px solid #000000;
+}
+
+p{
+	font-size: 17px;
+	font-family: "Verdana";
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+button {
+	border-radius:9px;
+}
+
+p{
+	font-size: 35px;
+	font-family:"Verdana";
+}
+
+body, html {
+	height: 100%;
+}
+
+html { 
+  background: url(Images/UnmadeBedB.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
